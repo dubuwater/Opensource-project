@@ -14,6 +14,8 @@ while True:
         continue'
 '''
 
+
+
 #2번 예제
 str = input("문자열을 입력하세요 : ")
 print("내용을 거꾸로 출력 : ",end="")
